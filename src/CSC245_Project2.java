@@ -34,7 +34,7 @@ public class CSC245_Project2 {
         // Read the filename from the command line argument
         //File file = new File(args[0]);
         //Uses a descriptive file name only using the name of the file we are getting from. That way it is secure characters and not unsafe characters
-        File file = new File("Email_addresses_20210205.txt");// (IDS08-J)
+        File file = new File("Email_addresses_20210205.txt");// (IDS50-J)
 
 
         String filename = args[0];
